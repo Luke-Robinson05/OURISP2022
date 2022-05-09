@@ -124,7 +124,7 @@ import Foundation
          else if choice2L == "3" {
              //pathway #3
              sleep(3)
-             print("You decide to find a compfy bush and lay down to get some rest")
+             print("You decide to find a comfy bush and lay down to get some rest")
              sleep(3)
              print("Not much longer after you hear restling from somewhere in the darkness")
              sleep(3)
