@@ -18,6 +18,9 @@ import Foundation
  print("Welcome to \u{001B}[0;32mTHE FOREST")
  sleep(1)
  print("\u{001B}[0;37m>")
+ print("(Please type in lowercase letters)")
+ print("\u{001B}[0;37m>")      
+ sleep(1)
  print("What is your name traveler?")
  print(">")
  let name = readLine()
@@ -216,6 +219,4 @@ import Foundation
      print("Very well, you do not wish to continue")
      sleep(3)
 }
-
-// story pathway B
  
